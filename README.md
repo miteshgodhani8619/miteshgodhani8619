@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @miteshgodhani8619
 - 👀 I’m interested in UI?UX
-- 🌱 I’m currently learning Angular Frontend Development.
+- 🌱 I’m currently Working Shopify Development.
 - 💞️ I’m looking to collaborate on Working Freelance Project.
 - 📫 How to reach me Miteshgodhani85@gmail.com
-- 📫  **My Skill is:** HTML 5, CSS 3, Bootstrap, Javascript, Angular.....
+- 📫  **My Skill is:** HTML 5, CSS 3, Bootstrap, Javascript, jQuery, Bigcommerce, Shopify, WordPress.....
 
 
 
